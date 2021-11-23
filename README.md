@@ -82,10 +82,10 @@ with the addition of reactstrap for responsive display, and react-router-dom for
 
 ### Installation
 
-1. Get & Clone a API Key at [Backend for this project ](https://github.com/roufurrohim/tester)
+1. Get & Clone a API Key at [Backend for this project ](https://github.com/AndreyVolkov88/projectCoffeeBackend)
 2. Clone the repo
    ```sh
-   git clone https://github.com/roufurrohim/Coffee-Shop-with-React
+   git clone https://github.com/AndreyVolkov88/projectCoffeeClient
    ```
 3. Install NPM packages
    ```sh
@@ -103,7 +103,7 @@ with the addition of reactstrap for responsive display, and react-router-dom for
 <div id="roadmap"></div>
 ## Roadmap
 
-- [x] Clone repository [backend](https://github.com/roufurrohim/tester)
+- [x] Clone repository [backend](https://github.com/AndreyVolkov88/projectCoffeeBackend)
 - [x] Add file environtment
 - [ ] Run Backend with `node app.js`
 - [ ] Run this project with `npm start`
